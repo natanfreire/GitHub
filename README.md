@@ -10,3 +10,5 @@
  3|Maris| 9,0
 
  Terminou a tabela
+
+Não entendo direito para que serve o comando `document.getElementById` da linguagem JavaScript
