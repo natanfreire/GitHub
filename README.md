@@ -22,3 +22,6 @@ print(f'O valor {num}é PAR`)
 else:
 print:
      print(f'O valor {num} é ÍMPAR)
+
+Olá, pequeno Gafanhoto 🖖
+oi, :man_technologist:
